@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lifeinanotebook.github.io/about/</loc>
+    <loc>https://lifeinanotebook.github.io/about/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/author/</loc>
+    <loc>https://lifeinanotebook.github.io/author/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/categories/</loc>
+    <loc>https://lifeinanotebook.github.io/categories/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/contact/</loc>
+    <loc>https://lifeinanotebook.github.io/contact/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/</loc>
+    <loc>https://lifeinanotebook.github.io/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/search/</loc>
+    <loc>https://lifeinanotebook.github.io/search/</loc>
   </url><url>
-    <loc>lifeinanotebook.github.io/tags/</loc>
+    <loc>https://lifeinanotebook.github.io/tags/</loc>
   </url>
 </urlset>
